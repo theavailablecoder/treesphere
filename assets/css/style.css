@@ -1027,7 +1027,13 @@ body {
 
   }
 
-
+  .hero {
+    background-image: url("../images/heroimg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    min-height: 780px;
+  }
 
   /**
    * DONATE
