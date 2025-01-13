@@ -393,7 +393,7 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  background-color: var(--eerie-black-1);
+  background-image: url("../images/heroimg3.jpg");
   color: var(--white);
   min-height: 700px;
   padding-block: 120px 60px;
